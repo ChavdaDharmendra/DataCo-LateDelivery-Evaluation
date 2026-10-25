@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or results, please cite it as below."
+title: "DataCo Late-Delivery Risk: Leakage-Aware Chronological Evaluation (code and results)"
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: Chavda
+    given-names: Jaimin
+    affiliation: "Sigma University, Vadodara, India"
+  - family-names: Chavda
+    given-names: Dharmendra
+    affiliation: "Drs. Kiran & Pallavi Patel Global University (KPGU), Vadodara, India"
+    email: dharmendra.chavda.it@gmail.com
+  - family-names: Gohil
+    given-names: Krushal
+    affiliation: "Drs. Kiran & Pallavi Patel Global University (KPGU), Vadodara, India"
+  - family-names: Chauhan
+    given-names: Harshwardhansinh
+    affiliation: "Drs. Kiran & Pallavi Patel Global University (KPGU), Vadodara, India"
+references:
+  - type: dataset
+    title: "DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS"
+    authors:
+      - family-names: Constante
+        given-names: Fabian
+      - family-names: Silva
+        given-names: Fernando
+      - family-names: Pereira
+        given-names: António
+    doi: 10.17632/8gx2fvg2k6.5
+    publisher:
+      name: Mendeley Data
